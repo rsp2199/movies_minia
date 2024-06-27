@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movies @ Mariana Tek</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .movie {
+            display: flex;
+            margin-bottom: 20px;
+        }
+        .movie img {
+            width: 100px;
+            margin-right: 20px;
+        }
+    </style>
+</head>
+<body class="container">
+    <h1 class="mt-4">Movies @ Mariana Tek</h1>
+    
+    <form method="GET" class="form-inline mb-4">
+        <label class="mr-2" for="genre">Filter by Genre:</label>
+        <select class="form-control mr-2" id="genre" name="genre" onchange="this.form.submit()">
+            <option value="">All</option>
+            {% for genre in genres %}
+                <option value="{{ genre }}" {% if genre == selected_genre %}selected{% endif %}>{{ genre }}</option>
+            {% endfor %}
+        </select>
+        
+        <label class="mr-2" for="search">Search by Title:</label>
+        <input class="form-control" type="text" id="search" name="search" value="{{ search_query }}" onkeyup="this.form.submit()">
+    </form>
+
+    <div id="movies">
+        {% for movie in movies %}
+            <div class="movie card mb-3">
+                <div class="row no-gutters">
+                    <div class="col-md-2">
+                        <img src="{{ movie.poster }}" class="card-img" alt="{{ movie.title }} Poster">
+                    </div>
+                    <div class="col-md-10">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ movie.title }}</h5>
+                            <p class="card-text">Genres: {{ movie.genres }}</p>
+                            <p class="card-text">Rating: {{ movie.rating }}</p>
+                            <p class="card-text">Year: {{ movie.year_release }}</p>
+                            <p class="card-text">Metacritic Rating: {{ movie.metacritic_rating }}</p>
+                            <p class="card-text">Runtime: {{ movie.runtime }} minutes</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

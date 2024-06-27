@@ -1,0 +1,1302 @@
+[
+    {
+        "model": "movies.movie",
+        "pk": 1,
+        "fields": {
+            "title": "Movie Title 1",
+            "poster": "https://example.com/poster1.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2001,
+            "metacritic_rating": 51,
+            "runtime": 91
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 2,
+        "fields": {
+            "title": "Movie Title 2",
+            "poster": "https://example.com/poster2.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2002,
+            "metacritic_rating": 52,
+            "runtime": 92
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 3,
+        "fields": {
+            "title": "Movie Title 3",
+            "poster": "https://example.com/poster3.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2003,
+            "metacritic_rating": 53,
+            "runtime": 93
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 4,
+        "fields": {
+            "title": "Movie Title 4",
+            "poster": "https://example.com/poster4.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2004,
+            "metacritic_rating": 54,
+            "runtime": 94
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 5,
+        "fields": {
+            "title": "Movie Title 5",
+            "poster": "https://example.com/poster5.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2005,
+            "metacritic_rating": 55,
+            "runtime": 95
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 6,
+        "fields": {
+            "title": "Movie Title 6",
+            "poster": "https://example.com/poster6.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2006,
+            "metacritic_rating": 56,
+            "runtime": 96
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 7,
+        "fields": {
+            "title": "Movie Title 7",
+            "poster": "https://example.com/poster7.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2007,
+            "metacritic_rating": 57,
+            "runtime": 97
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 8,
+        "fields": {
+            "title": "Movie Title 8",
+            "poster": "https://example.com/poster8.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2008,
+            "metacritic_rating": 58,
+            "runtime": 98
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 9,
+        "fields": {
+            "title": "Movie Title 9",
+            "poster": "https://example.com/poster9.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2009,
+            "metacritic_rating": 59,
+            "runtime": 99
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 10,
+        "fields": {
+            "title": "Movie Title 10",
+            "poster": "https://example.com/poster10.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2010,
+            "metacritic_rating": 60,
+            "runtime": 100
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 11,
+        "fields": {
+            "title": "Movie Title 11",
+            "poster": "https://example.com/poster11.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2011,
+            "metacritic_rating": 61,
+            "runtime": 101
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 12,
+        "fields": {
+            "title": "Movie Title 12",
+            "poster": "https://example.com/poster12.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2012,
+            "metacritic_rating": 62,
+            "runtime": 102
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 13,
+        "fields": {
+            "title": "Movie Title 13",
+            "poster": "https://example.com/poster13.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2013,
+            "metacritic_rating": 63,
+            "runtime": 103
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 14,
+        "fields": {
+            "title": "Movie Title 14",
+            "poster": "https://example.com/poster14.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2014,
+            "metacritic_rating": 64,
+            "runtime": 104
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 15,
+        "fields": {
+            "title": "Movie Title 15",
+            "poster": "https://example.com/poster15.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2015,
+            "metacritic_rating": 65,
+            "runtime": 105
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 16,
+        "fields": {
+            "title": "Movie Title 16",
+            "poster": "https://example.com/poster16.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2016,
+            "metacritic_rating": 66,
+            "runtime": 106
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 17,
+        "fields": {
+            "title": "Movie Title 17",
+            "poster": "https://example.com/poster17.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2017,
+            "metacritic_rating": 67,
+            "runtime": 107
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 18,
+        "fields": {
+            "title": "Movie Title 18",
+            "poster": "https://example.com/poster18.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2018,
+            "metacritic_rating": 68,
+            "runtime": 108
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 19,
+        "fields": {
+            "title": "Movie Title 19",
+            "poster": "https://example.com/poster19.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2019,
+            "metacritic_rating": 69,
+            "runtime": 109
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 20,
+        "fields": {
+            "title": "Movie Title 20",
+            "poster": "https://example.com/poster20.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2000,
+            "metacritic_rating": 70,
+            "runtime": 110
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 21,
+        "fields": {
+            "title": "Movie Title 21",
+            "poster": "https://example.com/poster21.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2001,
+            "metacritic_rating": 71,
+            "runtime": 111
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 22,
+        "fields": {
+            "title": "Movie Title 22",
+            "poster": "https://example.com/poster22.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2002,
+            "metacritic_rating": 72,
+            "runtime": 112
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 23,
+        "fields": {
+            "title": "Movie Title 23",
+            "poster": "https://example.com/poster23.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2003,
+            "metacritic_rating": 73,
+            "runtime": 113
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 24,
+        "fields": {
+            "title": "Movie Title 24",
+            "poster": "https://example.com/poster24.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2004,
+            "metacritic_rating": 74,
+            "runtime": 114
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 25,
+        "fields": {
+            "title": "Movie Title 25",
+            "poster": "https://example.com/poster25.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2005,
+            "metacritic_rating": 75,
+            "runtime": 115
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 26,
+        "fields": {
+            "title": "Movie Title 26",
+            "poster": "https://example.com/poster26.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2006,
+            "metacritic_rating": 76,
+            "runtime": 116
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 27,
+        "fields": {
+            "title": "Movie Title 27",
+            "poster": "https://example.com/poster27.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2007,
+            "metacritic_rating": 77,
+            "runtime": 117
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 28,
+        "fields": {
+            "title": "Movie Title 28",
+            "poster": "https://example.com/poster28.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2008,
+            "metacritic_rating": 78,
+            "runtime": 118
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 29,
+        "fields": {
+            "title": "Movie Title 29",
+            "poster": "https://example.com/poster29.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2009,
+            "metacritic_rating": 79,
+            "runtime": 119
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 30,
+        "fields": {
+            "title": "Movie Title 30",
+            "poster": "https://example.com/poster30.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2010,
+            "metacritic_rating": 80,
+            "runtime": 90
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 31,
+        "fields": {
+            "title": "Movie Title 31",
+            "poster": "https://example.com/poster31.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2011,
+            "metacritic_rating": 81,
+            "runtime": 91
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 32,
+        "fields": {
+            "title": "Movie Title 32",
+            "poster": "https://example.com/poster32.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2012,
+            "metacritic_rating": 82,
+            "runtime": 92
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 33,
+        "fields": {
+            "title": "Movie Title 33",
+            "poster": "https://example.com/poster33.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2013,
+            "metacritic_rating": 83,
+            "runtime": 93
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 34,
+        "fields": {
+            "title": "Movie Title 34",
+            "poster": "https://example.com/poster34.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2014,
+            "metacritic_rating": 84,
+            "runtime": 94
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 35,
+        "fields": {
+            "title": "Movie Title 35",
+            "poster": "https://example.com/poster35.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2015,
+            "metacritic_rating": 85,
+            "runtime": 95
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 36,
+        "fields": {
+            "title": "Movie Title 36",
+            "poster": "https://example.com/poster36.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2016,
+            "metacritic_rating": 86,
+            "runtime": 96
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 37,
+        "fields": {
+            "title": "Movie Title 37",
+            "poster": "https://example.com/poster37.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2017,
+            "metacritic_rating": 87,
+            "runtime": 97
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 38,
+        "fields": {
+            "title": "Movie Title 38",
+            "poster": "https://example.com/poster38.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2018,
+            "metacritic_rating": 88,
+            "runtime": 98
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 39,
+        "fields": {
+            "title": "Movie Title 39",
+            "poster": "https://example.com/poster39.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2019,
+            "metacritic_rating": 89,
+            "runtime": 99
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 40,
+        "fields": {
+            "title": "Movie Title 40",
+            "poster": "https://example.com/poster40.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2000,
+            "metacritic_rating": 90,
+            "runtime": 100
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 41,
+        "fields": {
+            "title": "Movie Title 41",
+            "poster": "https://example.com/poster41.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2001,
+            "metacritic_rating": 91,
+            "runtime": 101
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 42,
+        "fields": {
+            "title": "Movie Title 42",
+            "poster": "https://example.com/poster42.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2002,
+            "metacritic_rating": 92,
+            "runtime": 102
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 43,
+        "fields": {
+            "title": "Movie Title 43",
+            "poster": "https://example.com/poster43.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2003,
+            "metacritic_rating": 93,
+            "runtime": 103
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 44,
+        "fields": {
+            "title": "Movie Title 44",
+            "poster": "https://example.com/poster44.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2004,
+            "metacritic_rating": 94,
+            "runtime": 104
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 45,
+        "fields": {
+            "title": "Movie Title 45",
+            "poster": "https://example.com/poster45.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2005,
+            "metacritic_rating": 95,
+            "runtime": 105
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 46,
+        "fields": {
+            "title": "Movie Title 46",
+            "poster": "https://example.com/poster46.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2006,
+            "metacritic_rating": 96,
+            "runtime": 106
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 47,
+        "fields": {
+            "title": "Movie Title 47",
+            "poster": "https://example.com/poster47.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2007,
+            "metacritic_rating": 97,
+            "runtime": 107
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 48,
+        "fields": {
+            "title": "Movie Title 48",
+            "poster": "https://example.com/poster48.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2008,
+            "metacritic_rating": 98,
+            "runtime": 108
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 49,
+        "fields": {
+            "title": "Movie Title 49",
+            "poster": "https://example.com/poster49.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2009,
+            "metacritic_rating": 99,
+            "runtime": 109
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 50,
+        "fields": {
+            "title": "Movie Title 50",
+            "poster": "https://example.com/poster50.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2010,
+            "metacritic_rating": 50,
+            "runtime": 110
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 51,
+        "fields": {
+            "title": "Movie Title 51",
+            "poster": "https://example.com/poster51.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2011,
+            "metacritic_rating": 51,
+            "runtime": 111
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 52,
+        "fields": {
+            "title": "Movie Title 52",
+            "poster": "https://example.com/poster52.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2012,
+            "metacritic_rating": 52,
+            "runtime": 112
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 53,
+        "fields": {
+            "title": "Movie Title 53",
+            "poster": "https://example.com/poster53.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2013,
+            "metacritic_rating": 53,
+            "runtime": 113
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 54,
+        "fields": {
+            "title": "Movie Title 54",
+            "poster": "https://example.com/poster54.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2014,
+            "metacritic_rating": 54,
+            "runtime": 114
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 55,
+        "fields": {
+            "title": "Movie Title 55",
+            "poster": "https://example.com/poster55.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2015,
+            "metacritic_rating": 55,
+            "runtime": 115
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 56,
+        "fields": {
+            "title": "Movie Title 56",
+            "poster": "https://example.com/poster56.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2016,
+            "metacritic_rating": 56,
+            "runtime": 116
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 57,
+        "fields": {
+            "title": "Movie Title 57",
+            "poster": "https://example.com/poster57.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2017,
+            "metacritic_rating": 57,
+            "runtime": 117
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 58,
+        "fields": {
+            "title": "Movie Title 58",
+            "poster": "https://example.com/poster58.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2018,
+            "metacritic_rating": 58,
+            "runtime": 118
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 59,
+        "fields": {
+            "title": "Movie Title 59",
+            "poster": "https://example.com/poster59.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2019,
+            "metacritic_rating": 59,
+            "runtime": 119
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 60,
+        "fields": {
+            "title": "Movie Title 60",
+            "poster": "https://example.com/poster60.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2000,
+            "metacritic_rating": 60,
+            "runtime": 90
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 61,
+        "fields": {
+            "title": "Movie Title 61",
+            "poster": "https://example.com/poster61.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2001,
+            "metacritic_rating": 61,
+            "runtime": 91
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 62,
+        "fields": {
+            "title": "Movie Title 62",
+            "poster": "https://example.com/poster62.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2002,
+            "metacritic_rating": 62,
+            "runtime": 92
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 63,
+        "fields": {
+            "title": "Movie Title 63",
+            "poster": "https://example.com/poster63.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2003,
+            "metacritic_rating": 63,
+            "runtime": 93
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 64,
+        "fields": {
+            "title": "Movie Title 64",
+            "poster": "https://example.com/poster64.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2004,
+            "metacritic_rating": 64,
+            "runtime": 94
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 65,
+        "fields": {
+            "title": "Movie Title 65",
+            "poster": "https://example.com/poster65.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2005,
+            "metacritic_rating": 65,
+            "runtime": 95
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 66,
+        "fields": {
+            "title": "Movie Title 66",
+            "poster": "https://example.com/poster66.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2006,
+            "metacritic_rating": 66,
+            "runtime": 96
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 67,
+        "fields": {
+            "title": "Movie Title 67",
+            "poster": "https://example.com/poster67.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2007,
+            "metacritic_rating": 67,
+            "runtime": 97
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 68,
+        "fields": {
+            "title": "Movie Title 68",
+            "poster": "https://example.com/poster68.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2008,
+            "metacritic_rating": 68,
+            "runtime": 98
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 69,
+        "fields": {
+            "title": "Movie Title 69",
+            "poster": "https://example.com/poster69.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2009,
+            "metacritic_rating": 69,
+            "runtime": 99
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 70,
+        "fields": {
+            "title": "Movie Title 70",
+            "poster": "https://example.com/poster70.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2010,
+            "metacritic_rating": 70,
+            "runtime": 100
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 71,
+        "fields": {
+            "title": "Movie Title 71",
+            "poster": "https://example.com/poster71.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2011,
+            "metacritic_rating": 71,
+            "runtime": 101
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 72,
+        "fields": {
+            "title": "Movie Title 72",
+            "poster": "https://example.com/poster72.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2012,
+            "metacritic_rating": 72,
+            "runtime": 102
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 73,
+        "fields": {
+            "title": "Movie Title 73",
+            "poster": "https://example.com/poster73.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2013,
+            "metacritic_rating": 73,
+            "runtime": 103
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 74,
+        "fields": {
+            "title": "Movie Title 74",
+            "poster": "https://example.com/poster74.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2014,
+            "metacritic_rating": 74,
+            "runtime": 104
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 75,
+        "fields": {
+            "title": "Movie Title 75",
+            "poster": "https://example.com/poster75.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2015,
+            "metacritic_rating": 75,
+            "runtime": 105
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 76,
+        "fields": {
+            "title": "Movie Title 76",
+            "poster": "https://example.com/poster76.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2016,
+            "metacritic_rating": 76,
+            "runtime": 106
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 77,
+        "fields": {
+            "title": "Movie Title 77",
+            "poster": "https://example.com/poster77.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2017,
+            "metacritic_rating": 77,
+            "runtime": 107
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 78,
+        "fields": {
+            "title": "Movie Title 78",
+            "poster": "https://example.com/poster78.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2018,
+            "metacritic_rating": 78,
+            "runtime": 108
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 79,
+        "fields": {
+            "title": "Movie Title 79",
+            "poster": "https://example.com/poster79.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2019,
+            "metacritic_rating": 79,
+            "runtime": 109
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 80,
+        "fields": {
+            "title": "Movie Title 80",
+            "poster": "https://example.com/poster80.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2000,
+            "metacritic_rating": 80,
+            "runtime": 110
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 81,
+        "fields": {
+            "title": "Movie Title 81",
+            "poster": "https://example.com/poster81.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2001,
+            "metacritic_rating": 81,
+            "runtime": 111
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 82,
+        "fields": {
+            "title": "Movie Title 82",
+            "poster": "https://example.com/poster82.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2002,
+            "metacritic_rating": 82,
+            "runtime": 112
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 83,
+        "fields": {
+            "title": "Movie Title 83",
+            "poster": "https://example.com/poster83.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2003,
+            "metacritic_rating": 83,
+            "runtime": 113
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 84,
+        "fields": {
+            "title": "Movie Title 84",
+            "poster": "https://example.com/poster84.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2004,
+            "metacritic_rating": 84,
+            "runtime": 114
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 85,
+        "fields": {
+            "title": "Movie Title 85",
+            "poster": "https://example.com/poster85.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2005,
+            "metacritic_rating": 85,
+            "runtime": 115
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 86,
+        "fields": {
+            "title": "Movie Title 86",
+            "poster": "https://example.com/poster86.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2006,
+            "metacritic_rating": 86,
+            "runtime": 116
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 87,
+        "fields": {
+            "title": "Movie Title 87",
+            "poster": "https://example.com/poster87.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2007,
+            "metacritic_rating": 87,
+            "runtime": 117
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 88,
+        "fields": {
+            "title": "Movie Title 88",
+            "poster": "https://example.com/poster88.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2008,
+            "metacritic_rating": 88,
+            "runtime": 118
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 89,
+        "fields": {
+            "title": "Movie Title 89",
+            "poster": "https://example.com/poster89.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2009,
+            "metacritic_rating": 89,
+            "runtime": 119
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 90,
+        "fields": {
+            "title": "Movie Title 90",
+            "poster": "https://example.com/poster90.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2010,
+            "metacritic_rating": 90,
+            "runtime": 90
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 91,
+        "fields": {
+            "title": "Movie Title 91",
+            "poster": "https://example.com/poster91.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2011,
+            "metacritic_rating": 91,
+            "runtime": 91
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 92,
+        "fields": {
+            "title": "Movie Title 92",
+            "poster": "https://example.com/poster92.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2012,
+            "metacritic_rating": 92,
+            "runtime": 92
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 93,
+        "fields": {
+            "title": "Movie Title 93",
+            "poster": "https://example.com/poster93.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2013,
+            "metacritic_rating": 93,
+            "runtime": 93
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 94,
+        "fields": {
+            "title": "Movie Title 94",
+            "poster": "https://example.com/poster94.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2014,
+            "metacritic_rating": 94,
+            "runtime": 94
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 95,
+        "fields": {
+            "title": "Movie Title 95",
+            "poster": "https://example.com/poster95.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2015,
+            "metacritic_rating": 95,
+            "runtime": 95
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 96,
+        "fields": {
+            "title": "Movie Title 96",
+            "poster": "https://example.com/poster96.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2016,
+            "metacritic_rating": 96,
+            "runtime": 96
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 97,
+        "fields": {
+            "title": "Movie Title 97",
+            "poster": "https://example.com/poster97.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2017,
+            "metacritic_rating": 97,
+            "runtime": 97
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 98,
+        "fields": {
+            "title": "Movie Title 98",
+            "poster": "https://example.com/poster98.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2018,
+            "metacritic_rating": 98,
+            "runtime": 98
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 99,
+        "fields": {
+            "title": "Movie Title 99",
+            "poster": "https://example.com/poster99.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2019,
+            "metacritic_rating": 99,
+            "runtime": 99
+        }
+    },
+    {
+        "model": "movies.movie",
+        "pk": 100,
+        "fields": {
+            "title": "Movie Title 100",
+            "poster": "https://example.com/poster100.jpg",
+            "genres": "Action, Drama",
+            "rating": "PG-13",
+            "year_release": 2000,
+            "metacritic_rating": 50,
+            "runtime": 100
+        }
+    }
+]
